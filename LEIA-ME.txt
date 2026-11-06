@@ -1,0 +1,6 @@
+ANATOMIA EM MISTÉRIO — LABORATÓRIO 3D
+
+Site/PWA responsivo com cenário 3D, botões em relevo, atlas anatômico, quebra-cabeças, 105 desafios, áudio, guia Yumi, moedas e área do professor.
+
+Abra index.html ou publique todos os arquivos no GitHub Pages. Para instalar como PWA use HTTPS.
+Senha docente: 2026 (proteção visual, não criptográfica).
